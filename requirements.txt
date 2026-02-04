@@ -8,7 +8,7 @@ sentence-transformers
 OpenAI
 faiss-cpu
 python-dotenv
-#langchian-groq
+langchian-groq
 #sentence-transformer
 
 
