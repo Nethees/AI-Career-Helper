@@ -1,0 +1,14 @@
+gunicorn
+langchain
+langchain_community
+PyPDF2 
+pdfplumber
+flask
+sentence-transformers
+OpenAI
+faiss-cpu
+python-dotenv
+#langchian-groq
+#sentence-transformer
+
+
